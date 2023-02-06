@@ -1804,6 +1804,297 @@ http://37.49.230.48:8080/tomstme300/tomasarenatelegramme300/4105
 #EXTINF:0 group-title="[🇦🇱📺]ANDROID-TV" tvg-logo="https://i.imgur.com/RVUfcMi.png",[$]TRING SHQIP
 http://37.49.230.48:8080/tomstme300/tomasarenatelegramme300/1307
 
+#EXTINF:0 group-title="[🇦🇱📺]SKY-TV" tvg-logo="https://i.imgur.com/n05aAPm.png",========>>GJENERALE<<========
+http://gjenerale.restream/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TOP CHANNEL HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/1
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]VIZION PLUS HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/59
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]KLAN HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/35
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]KLAN PLUS HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/37
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]KLAN KOSOVA HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/36
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]KLAN MACEDONIA HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/93
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH 1HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/200
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH 2HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/201
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH 3HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/202
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH PLUS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/204
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH KUKESI
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/207
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH AGRO
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/208
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH KUVEND
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/209
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH SHQIP
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/210
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH SHKODRA
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/96
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTV ORA HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/11
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTK 1HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/86
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTV21 HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/40
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTV21 MACEDONIA HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/601
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]KTV HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/621
+#EXTINF:0 group-title="[🇦🇱📺]SKY-TV" tvg-logo="https://i.imgur.com/n05aAPm.png",========>>LOKALE<<========
+http://lokale.restream/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TV1 CHANNEL
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/78
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]BLUE SKY
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/79
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TV KOPLIKU
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/80
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TV ROZAFA
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/81
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]STAR PLUS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/82
+#EXTINF:0 group-title="[🇦🇱📺]SKY-TV" tvg-logo="https://i.imgur.com/n05aAPm.png",========>>LAJME<<========
+http://lajme.restream/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH 24
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/203
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]KANALI 7
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/33
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TOP NEWS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/2
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]NEWS 24
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/39
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]ORA NEWS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/12
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]ABC NEWS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/26
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FAX NEWS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/29
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]REPORT TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/72
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]SYRI TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/46
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]A2 CNN
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/61
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]SCAN TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/73
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]KLAN NEWS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/95
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]EURONEWS AL
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/22
+#EXTINF:0 group-title="[🇦🇱📺]SKY-TV" tvg-logo="https://i.imgur.com/n05aAPm.png",========>>MUZIKE<<========
+http://muzike.restream/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTV21 PLUS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/602
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTV21 POPULLORE
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/603
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]BBF
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/27
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]ELRODI TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/28
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FOLK PLUS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/30
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]MELODY TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/13
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]MY MUSIC
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/71
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]IN TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/70
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]SUPERSONIC TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/76
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]KLAN MSIC
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/83
+#EXTINF:0 group-title="[🇦🇱📺]SKY-TV" tvg-logo="https://i.imgur.com/n05aAPm.png",========>>FEMIJE<<========
+http://femije.restream/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]BANG BANG
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/24
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]CUFO TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/23
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]JUNIOR TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/14
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING TRING
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/57
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TIP TV
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/47
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RING KIDS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/34
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]NICKTOONS
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/10
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH FEMIJE
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/206
+#EXTINF:0 group-title="[🇦🇱📺]SKY-TV" tvg-logo="https://i.imgur.com/n05aAPm.png",========>>KULTURE<<========
+http://kulture.restream/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]LIVING HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/38
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING PLANET
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/53
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING HISTORY
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/51
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING WORLD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/58
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]EXP.SHKENCE
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/20
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]EXP.NATYRA
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/21
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]EXP.HISTORI
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/84
+#EXTINF:0 group-title="[🇦🇱📺]SKY-TV" tvg-logo="https://i.imgur.com/n05aAPm.png",========>>FILMA<<========
+http://filma.restream/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE 1HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/604
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE 2HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/605
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE 3HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/606
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE 4HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/607
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE 5HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/608
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE AKSION HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/610
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE AVENTURE HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/611
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE FILM CRIME HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/612
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE FILM GOLD COLLECTION HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/613
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE FILM FANTAZI HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/614
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE FILM THRILLER HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/615
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE FILM DRAME HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/616
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TELEONE FILM EPIK HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/617
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 THRILLER HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/527
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 ROMANCE HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/528
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 NETFLIX 1HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/529
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 NETFLIX 2HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/530
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 MISTER HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/531
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 KRIM HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/532
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 KOMEDI HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/533
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 HISTORI HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/534
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 FANTAZI HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/535
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 FAMILJAR HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/536
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 DRAME HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/537
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 BIOGRAFI HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/538
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 AVENTURE HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/539
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILMA24 ACTION HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/541
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FALCON PREMIUM 1HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/542
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FALCON PREMIUM 2HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/543
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FALCON PREMIUM 3HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/544
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FALCON PREMIUM 4HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/545
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FALCON PREMIUM 5HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/546
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FALCON PREMIUM 6HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/547
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FALCON HORROR 1HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/548
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FALCON HORROR 2HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/549
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM MAX HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/16
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM GOLD HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/64
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM FAMILY HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/19
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM AKSION HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/18
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM HITS HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/65
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM T HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/77
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM THRILLER
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/15
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM DRAME
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/63
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM STINET
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/3
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM KOMEDI
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/66
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FILM AUTOR
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/17
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]EUROFILM
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/62
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]KANAL-D DRAMA HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/32
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING SERIES HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/31
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING ACTION HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/48
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING SUPER HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/56
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING FAMILY HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/260
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING 3+
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/25
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING FANTASY
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/50
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING COMEDY
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/49
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING LIFE
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/52
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING SHQIP
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/54
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING SMILE
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/41
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING ORIGINAL
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/261
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FOX
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/67
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FOX LIFE
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/68
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]FOX MOVIES
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/69
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH FILM
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/211
+#EXTINF:0 group-title="[🇦🇱📺]SKY-TV" tvg-logo="https://i.imgur.com/n05aAPm.png",========>>SPORTE<<========
+http://sporte.restream/index.m3u8
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]SUPER SPORT 1HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/4
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]SUPER SPORT 2HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/5
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]SUPER SPORT 3HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/6
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]SUPER SPORT 4HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/7
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]SUPER SPORT 5HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/8
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING SPORT NEWS HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/55
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING SPORT 1HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/42
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING SPORT 2HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/43
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING SPORT 3HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/44
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]TRING SPORT 4HD
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/45
+#EXTINF:-1 group-title="[🇦🇱📺]SKY-TV" tvg-logo="",[$]RTSH SPORT
+http://restream.skyhd-iptv.com:25461/bertilezh/rhuq66gZFJ/199
+
 #EXTINF:0 group-title="[🇦🇱📺]BOX-TV" tvg-logo="https://i.imgur.com/dnOsJX0.png",========>>GJENERALE<<========
 http://gjenerale.box/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]BOX-TV" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL HD
@@ -4662,14 +4953,6 @@ http://restream.tivivo.cc:25461/localhost/Olv9RaNoHl/2724?|User-Agent=xut7wffn6v
 http://restream.tivivo.cc:25461/localhost/Olv9RaNoHl/2721?|User-Agent=xut7wffn6v2a4aw6
 #EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/GAgSJ9h.png",[$]BB VIP KOS2HD
 http://restream.tivivo.cc:25461/localhost/Olv9RaNoHl/2722?|User-Agent=xut7wffn6v2a4aw6
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/5s2h2vf.png",[$]BB VIP ALB 1HD (TEST)
-http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:C7:02:9E&stream=827921&extension=m3u8
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/KFdEE4g.png",[$]BB VIP ALB 2HD (TEST)
-http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:C7:02:9E&stream=827920&extension=m3u8
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/6bn1Xhl.png",[$]BB VIP KOS 1HD (TEST)
-http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:C7:02:9E&stream=820501&extension=m3u8
-#EXTINF:0 group-title="[🇦🇱👁️]REALITY SHOW" tvg-logo="https://i.imgur.com/kctC9r1.png",[$]BB VIP KOS 2HD (TEST)
-http://line.tvplus.cc:80/play/live.php?mac=00:1A:79:C7:02:9E&stream=820502&extension=m3u8
 
 #EXTINF:-1 group-title="[🇦🇱👁️]REALITY SHOW (BACKUP)" tvg-logo="https://i.imgur.com/6Rh1E4M.png",[$]BIG BROTHER VIP ALB 1HD
 http://albaniatv.net:25461/Paketafalas/W2d4CYUWggea/11713?
@@ -5094,6 +5377,50 @@ http://cloudcdn.city:80/BlIm21564/agf7Fp264/89865
 http://cloudcdn.city:80/BlIm21564/agf7Fp264/89866
 #EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]RTSH SPORT HD
 http://cloudcdn.city:80/BlIm21564/agf7Fp264/15635
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 1HD ENGLISH
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1_English.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 2HD ENGLISH
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein2_English.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 1HD FRENCH
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1_French.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 2HD FRENCH
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein2_French.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 3HD FRENCH
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein3_French.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS PREMIUM 1HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1_Premuim.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS PREMIUM 2HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein2_Premuim.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS PREMIUM 3HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein3_Premuim.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 1HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein1.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 2HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein2.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 3HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein3.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 4HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein4.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 5HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein5.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 6HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein6.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]BEIN SPORTS 7HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/Bein7.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]SSC1 EXTRA HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1_Extra.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]SSC2 EXTRA HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2_Extra.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]SSC 1HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC1.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]SSC 2HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC2.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]SSC 3HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC3.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]SSC 4HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC4.m3u8
+#EXTINF:0 group-title="[🇦🇱⚽]UEFA SPORTS" tvg-logo="https://i.imgur.com/EaRfB2C.png",[$]SSC 5HD
+http://yusf.ddns.net:5080/WebRTCApp/streams/SSC5.m3u8
 
 #EXTINF:0 group-title="[🇦🇱⚽]FIFA SPORTS" tvg-logo="https://i.imgur.com/zP9g5BF.png",[$]SUPER SPORT 1HD
 http://restream.tivivo.cc:25461/localhost/Olv9RaNoHl/475?|User-Agent=xut7wffn6v2a4aw6
@@ -5726,6 +6053,48 @@ http://79.141.211.254:8000/MatchFutbol3
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(SUPER)" tvg-logo="https://i.imgur.com/ngEDIQ5.png",[$]VIASAT SPORT HD
 http://79.141.211.254:8000/ViasatSport
 
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]SUPER SPORT NEWS HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5866
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]SUPER SPORT 1HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5859
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]SUPER SPORT 2HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5860
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]SUPER SPORT 3HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5861
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]SUPER SPORT 4HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5862
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]SUPER SPORT 5HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5863
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]SUPER SPORT 6HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5864
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]SUPER SPORT 7HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5865
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]TRING SPORT 1HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5867
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]TRING SPORT 2HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5868
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]TRING SPORT 3HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5869
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]TRING SPORT 4HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5870
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]KUJTESA SPORT 1HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5871
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]KUJTESA SPORT 2HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5872
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]KUJTESA SPORT 3HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5873
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]KUJTESA SPORT 4HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5874
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]KUJTESA SPORT 5HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5875
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]OVERSPORT 1HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5855
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]OVERSPORT 2HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5856
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]OVERSPORT 3HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5857
+#EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]OVERSPORT 4HD
+http://31.42.184.237:25461/SPORTSPACK/PFtHszNZzX7w/5858
 #EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]S PSL HD
 http://cloudcdn.city:80/BlIm21564/agf7Fp264/28894
 #EXTINF:-1 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/mDb1qIe.png",[$]S LA LIGA HD
@@ -7177,9 +7546,9 @@ http://94.156.59.247:8899/udp/224.156.69.139:5000
 http://94.156.59.247:8899/udp/224.156.69.136:5000
 #EXTINF:-1 group-title="[🇧🇬📺]KANALE BULLGARE 2" tvg-logo="",[$]RING HD
 http://94.156.59.247:8899/udp/239.10.1.203:30000
-#EXTINF:-1 group-title="[🇧🇬📺]KANALE BULLGARE 2" tvg-logo="",[$]nova sport
+#EXTINF:-1 group-title="[🇧🇬📺]KANALE BULLGARE 2" tvg-logo="",[$]NOVA SPORT
 http://94.156.59.247:8899/udp/239.10.1.203:30000
-#EXTINF:-1 group-title="[🇧🇬📺]KANALE BULLGARE 2" tvg-logo="",[$]nova sport HD
+#EXTINF:-1 group-title="[🇧🇬📺]KANALE BULLGARE 2" tvg-logo="",[$]NOVA SPORT HD
 http://94.156.59.247:8899/udp/224.2.1.5:1234
 #EXTINF:-1 group-title="[🇧🇬📺]KANALE BULLGARE 2" tvg-logo="",[$]EUROSPORT2
 http://94.156.59.247:8899/udp/224.2.1.6:1234
@@ -7471,13 +7840,13 @@ http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1877
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
 http://obsfullhd.tv:25461/@localhdtv/WJudqvpAbuP8/1878
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/0zOlyTo.png",[$]STARZ PLAY SPORTS HD
-http://103.145.13.31/5/mpegts
+http://103.145.13.31/5/index.m3u8
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/rJY5VbT.png",[$]ABU-DHABI SPORT PREMIUM 1HD
-http://103.145.13.31/6/mpegts
+http://103.145.13.31/6/index.m3u8
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/wHwvmzp.png",[$]ABU-DHABI SPORT PREMIUM 2HD
-http://103.145.13.31/7/mpegts
+http://103.145.13.31/7/index.m3u8
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/F6Ul4KU.png",[$]SSC 1HD
-http://103.145.13.31/12/mpegts
+http://103.145.13.31/12/index.m3u8
 
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/XJhUZeH.png",[$]BEIN SPORTS NEWS HD
 http://darkteam.vip:25461/Fytfd55gjbdssh/Ihdwqyhvp5678321/120
@@ -7655,21 +8024,21 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/PflJBSr.png",[$]BEIN SPORTS HABER HD
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/1184
+
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/3937
+
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/1177
+
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/1178
+
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/1179
+
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/106797
+
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/6jHWykF.png",[$]BEIN SPORTS MAX 1HD
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/1182
+
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/A3o2VUe.png",[$]BEIN SPORTS MAX 2HD
-http://combative.balans13.xyz:50750/1hacialba65854/Jrkdjfjrrhfsk4473jd/1183
+
 #EXTINF:0 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/QmOAM68.png",[$]CBC SPORT HD
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/cUs7TFd.png",[$]IDMAN TV HD
@@ -7895,8 +8264,6 @@ http://94.156.59.247:8899/udp/239.1.3.36:4000
 http://94.156.59.247:8899/udp/239.1.3.37:4000
 #EXTINF:0 group-title="[🇧🇦⚽]SPORTE BOSHNJAKE" tvg-logo="https://i.imgur.com/JIrABVE.png",[$]ARENA SPORT 5HD
 http://94.156.59.247:8899/udp/239.1.3.76:4000
-#EXTINF:0 group-title="[🇧🇦⚽]SPORTE BOSHNJAKE" tvg-logo="https://i.imgur.com/vm6uqvc.png",[$]ARENA SPORT 6HD
-http://92.60.230.202:5053/udp/239.30.9.6:30906
 
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/1mdCjKL.png",[$]CANAL 11HD
 http://62.28.71.186:45678/http/192.168.150.137:7137/canal11
@@ -19941,6 +20308,527 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/198821.mp4
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/198820.mp4
 #EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/3DE2Wg0",[$]Rocketman 
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/198819.mp4
+
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]13 LIVES
+http://51.81.208.167/pelis2022/13.lives.2022.lati.mp4	
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]365 DAYS AQUEL DIA
+http://51.81.208.167/pelis2022/365.dias.Aquel.dia.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]A FAIRY TALE AFTER ALL
+http://51.81.208.167/pelis2022/A.Fairy.Tale.After.All.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]A MADEA HOMECOMING
+http://51.81.208.167/pelis2022/A.Madea.Homecoming.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]AGAINST THE ICE
+http://51.81.208.167/pelis2022/Against.the.Ice.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ALCARRAS
+http://51.81.208.167/pelis2022/Alcarras.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ALL THE OLD KNIVES
+http://51.81.208.167/pelis2022/All.the.Old.Knives.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]AMBULANCE 
+http://51.81.208.167/pelis2022/Ambulance.2022.1080P.Dual-Latino.mitorrent.org.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]AMERICAN SIEGE
+http://51.81.208.167/pelis2022/American.Siege.2022.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]AQUA TEEN FOREVER PLANTASM
+http://51.81.208.167/pelis2022/Aqua.Teen.Forever.Plantasm.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]AVATAR EL CAMINO DEL AGUA
+http://51.81.208.167/pelis2022/Avatar.El.camino.del.agua.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BALLE PERDUE 2
+http://51.81.208.167/pelis2022/Balle.perdue.2.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BARBARIAN 
+http://51.81.208.167/pelis2022/Barbarian.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BATMAN Y SUPERMAN (LA BATALLA DE LOS SUPER HIJOS)
+http://51.81.208.167/pelis2022/Batman.y.Superman.La.batalla.de.los.Super.hijos.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BEAST
+http://51.81.208.167/pelis2022/Beast.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BEYOND THE UNIVERSE
+http://51.81.208.167/pelis2022/Beyond.the.Universe.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BIG GOLD BRICK
+http://51.81.208.167/pelis2022/Big.Gold.Brick.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BIG BUG
+http://51.81.208.167/pelis2022/BigBug.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BLACK ADAM
+http://51.81.208.167/pelis2022/Black.Adam.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BLACK PANTHER WAKANDA FOREVER
+http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BLACK SITE
+http://51.81.208.167/pelis2022/Black.Site.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BLACKLIGHT
+http://51.81.208.167/pelis2022/Blacklight.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BLADE OF THE RONIN
+http://51.81.208.167/pelis2022/Blade.of.the.47.Ronin.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BOBS BURGERS 
+http://51.81.208.167/pelis2022/Bobs.Burgers.The.Movie.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BROS
+http://51.81.208.167/pelis2022/Bros.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BULL SHARK
+http://51.81.208.167/pelis2022/Bull.Shark.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BULLDOZER
+http://51.81.208.167/pelis2022/Bulldozer.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]BULLET TRAIN
+http://51.81.208.167/pelis2022/Bullet.Train.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CARTER
+http://51.81.208.167/pelis2022/Carter.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CATHERINE CALLED BIRDY
+http://51.81.208.167/pelis2022/Catherine.Called.Birdy.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CAUSEWAY
+http://51.81.208.167/pelis2022/Causeway.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CHA CHA REAL SMOOTH
+http://51.81.208.167/pelis2022/Cha.Cha.Real.Smooth.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CHICAS WEB CAM
+http://51.81.208.167/pelis2022/Chicas.Web.Cam.2021.1080p-dual-lat.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CHIP N DALE RESCUE RANGERS
+http://51.81.208.167/pelis2022/Chip.n.Dale.Rescue.Rangers.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CLERKS
+http://51.81.208.167/pelis2022/Clerks.III.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]COLLISION
+http://51.81.208.167/pelis2022/Collision.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CONFESS FLETCH
+http://51.81.208.167/pelis2022/Confess.Fletch.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CONSPIRACION EXPLOSIVA
+http://51.81.208.167/pelis2022/Conspiracion.explosiva.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CORRECTIVE MEASURES
+http://51.81.208.167/pelis2022/Corrective.Measures.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CORRO DA TE
+http://51.81.208.167/pelis2022/Corro.da.te.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CUARENTONES
+http://51.81.208.167/pelis2022/Cuarentones.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]CULPA
+http://51.81.208.167/pelis2022/Culpa.2022.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DC LEAGUE OF SUPER PETS
+http://51.81.208.167/pelis2022/DC.League.of.Super.Pets.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DARDY AND THE DEAD
+http://51.81.208.167/pelis2022/Darby.and.the.Dead.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DEAD ZONE
+http://51.81.208.167/pelis2022/Dead.Zone.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DER PARFUMEUR
+http://51.81.208.167/pelis2022/Der.Parfumeur.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DESCONECTADOS
+http://51.81.208.167/pelis2022/Desconectados.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DESPERATE RIDERS
+http://51.81.208.167/pelis2022/Desperate.Riders.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DEVILS WORKSHOP
+http://51.81.208.167/pelis2022/Devils.Workshop.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DEVOTION
+http://51.81.208.167/pelis2022/Devotion.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS
+http://51.81.208.167/pelis2022/Doctor.Strange.in.the.Multiverse.of.Madness.2022.1080p.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DON'T WORRY DARLING
+http://51.81.208.167/pelis2022/Dont.Worry.Darling.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]EL AMOR MAS ALLA DEL TIEMPO
+http://51.81.208.167/pelis2022/El.Amor.Mas.Alla.del.Tiempo.2022.1080p-dual-lat.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]EL HOMBRE DE TORONTO
+http://51.81.208.167/pelis2022/El.Hombre.de.Toronto.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]EL GERENTE
+http://51.81.208.167/pelis2022/El.gerente.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]EL NORTE SOBRE EL VACIO
+http://51.81.208.167/pelis2022/El.norte.sobre.el.vacio.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]EL TEST
+http://51.81.208.167/pelis2022/El.test.2022.cast.pelispanda.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]EL UNIVERSO DE OLIVER
+http://51.81.208.167/pelis2022/El.universo.de.oliver.2022.cas.pelispanda.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ELESIN OBA THE KINGS HORSEMAN
+http://51.81.208.167/pelis2022/Elesin.Oba.The.Kings.Horseman.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]EMANCIPACION
+http://51.81.208.167/pelis2022/Emancipacion.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]EMILY THE CRIMINAL
+http://51.81.208.167/pelis2022/Emily.the.Criminal.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ENOLA HOLMES
+http://51.81.208.167/pelis2022/Enola.Holmes.2.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]EVERTHING EVERYWHERE ALL AT ONCE
+http://51.81.208.167/pelis2022/Everything.Everywhere.All.at.Once.2022.dual.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]FALLING FOR CHRISTMAS
+http://51.81.208.167/pelis2022/Falling.for.Christmas.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]FANTASTIC BEASTS THED SECRETS OF DUMBLEDORE
+http://51.81.208.167/pelis2022/Fantastic.Beasts.Thed.Secrets.Of.Dumbledore.2022.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]FIRESTARTER
+http://51.81.208.167/pelis2022/Firestarter.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]FORTRESS
+http://51.81.208.167/pelis2022/Fortress.2.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]FRANCO ESCAMILLA VOYERSITA
+http://51.81.208.167/pelis2022/Franco.Escamilla.Voyerista.auditivo.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]FRANK PENELOPE
+http://51.81.208.167/pelis2022/Frank.Penelope.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]FULLMETAL ALCHEMIST 
+http://51.81.208.167/pelis2022/Fullmetal.Alchemist.La.alquimia.final.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]GATO CON BOTAS
+http://51.81.208.167/pelis2022/Gato.con.Botas.El.ultimo.deseo.2022.1080p-dual-lat.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]GOSPEL
+http://51.81.208.167/pelis2022/Gospel.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]GUILLERMO DEL TOROS PINOCCHIO
+http://51.81.208.167/pelis2022/Guillermo.del.Toros.Pinocchio.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HALLOWEEN ENDS
+http://51.81.208.167/pelis2022/Halloween.Ends.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HAWA
+http://51.81.208.167/pelis2022/Hawa.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HOCUS POCUS
+http://51.81.208.167/pelis2022/Hocus.Pocus.2.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HOME TEAM
+http://51.81.208.167/pelis2022/Home.Team.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HOT SEAT
+http://51.81.208.167/pelis2022/Hot.Seat.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HOUSE OF GUCCI 
+http://51.81.208.167/pelis2022/House.Of.Gucci.2021.1080p.dual-lat.mitorrent.org.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HUEVITOS CONGELADOS
+http://51.81.208.167/pelis2022/Huevitos.Congelados.2022.1080P.Webrip.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HUNTING AVA BRAVO
+http://51.81.208.167/pelis2022/Hunting.Ava.Bravo.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ICE AGE ADVENTURES OF BUCK WILD
+http://51.81.208.167/pelis2022/Ice.Age.Adventures.of.Buck.Wild.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]IL FILO INVISIBLE
+http://51.81.208.167/pelis2022/Il.filo.invisibile.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]JACKASS FOREVER
+http://51.81.208.167/pelis2022/Jackass.Forever.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]JETSKI
+http://51.81.208.167/pelis2022/Jetski.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]JURASSIC WORLD DOMINION
+http://51.81.208.167/pelis2022/Jurassic.World.Dominion.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]KAAMELOTT PREMIER VOLET
+http://51.81.208.167/pelis2022/Kaamelott.Premier.volet.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]KIMI
+http://51.81.208.167/pelis2022/Kimi.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA LLORONA
+http://51.81.208.167/pelis2022/La.Llorona.2022.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA MUJER REY
+http://51.81.208.167/pelis2022/La.Mujer.Rey.2022.1080p-dual-lat.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA CIMA
+http://51.81.208.167/pelis2022/La.cima.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LAST SEEN ALIVE
+http://51.81.208.167/pelis2022/Last.Seen.Alive.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LES LIAISONS DANGEREUSES
+http://51.81.208.167/pelis2022/Les.Liaisons.Dangereuses.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LIGHTYEAR
+http://51.81.208.167/pelis2022/Lightyear.1080.dual.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LOU
+http://51.81.208.167/pelis2022/Lou.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LOVE AND LEASHES
+http://51.81.208.167/pelis2022/Love.and.Leashes.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LUCK
+http://51.81.208.167/pelis2022/Luck.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LUCKIEST GIRL ALIVE
+http://51.81.208.167/pelis2022/Luckiest.Girl.Alive.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MAL DE OJO
+http://51.81.208.167/pelis2022/Mal.de.Ojo.2022.1080p-dual-lat.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MAMA NO ENREDES
+http://51.81.208.167/pelis2022/Mama.no.enRedes.2022.cas.pelispanda.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MARGAUX
+http://51.81.208.167/pelis2022/Margaux.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MARRY ME
+http://51.81.208.167/pelis2022/Marry.Me.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MAS RESPETO QUE SOY TU MADRE
+http://51.81.208.167/pelis2022/Mas.respeto.que.soy.tu.madre.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MATRIMILLAS
+http://51.81.208.167/pelis2022/Matrimillas.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ME TIME
+http://51.81.208.167/pelis2022/Me.Time.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MEDIEVAL
+http://51.81.208.167/pelis2022/Medieval.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MEET CUTE
+http://51.81.208.167/pelis2022/Meet.Cute.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MEX ZOMBIES
+http://51.81.208.167/pelis2022/MexZombies.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MIA AND ME THE HERO OF CENTOPIA
+http://51.81.208.167/pelis2022/Mia.and.Me.The.Hero.of.Centopia.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MINDCAGE
+http://51.81.208.167/pelis2022/Mindcage.2022.1080p-dual-lat.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MINIONS THE RISE OF GRU
+http://51.81.208.167/pelis2022/Minions.The.Rise.of.Gru.2022.1080p.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MONSTER HIGH
+http://51.81.208.167/pelis2022/Monster.High.The.Movie.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MOONFALL
+http://51.81.208.167/pelis2022/Moonfall.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MORBIUS
+http://51.81.208.167/pelis2022/Morbius.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MORTAL KOMBAT LEGEND SNOW BLIND
+http://51.81.208.167/pelis2022/Mortal.Kombat.Legends.Snow.Blind.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MY FATHERS DRAGON
+http://51.81.208.167/pelis2022/My.Fathers.Dragon.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MY HERO ACADEMIA MISION MUNDIAL DE HEROES
+http://51.81.208.167/pelis2022/My.Hero.Academia.Mision.mundial.de.heroes.2021.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MY POLICEMAN
+http://51.81.208.167/pelis2022/My.Policeman.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MY SWEET MONSTER
+http://51.81.208.167/pelis2022/My.Sweet.Monster.2021.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]NATALE A TUTTI I COSTI
+http://51.81.208.167/pelis2022/Natale.a.tutti.i.costi.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]NIGHT AT THE MUSEUM 
+http://51.81.208.167/pelis2022/Night.at.the.Museum.Kahmunrah.Rises.Again.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]NOPE
+http://51.81.208.167/pelis2022/Nope.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ONE WAY
+http://51.81.208.167/pelis2022/One.Way.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]OPERATION MINCEMEAT
+http://51.81.208.167/pelis2022/Operation.Mincemeat.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ORPHAN FIRST KILL
+http://51.81.208.167/pelis2022/Orphan.First.Kill.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]OUR CHILDREN
+http://51.81.208.167/pelis2022/Our.Children.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]OVERDOSE
+http://51.81.208.167/pelis2022/Overdose.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]PADRE NOHAY MAS QUE UNO
+http://51.81.208.167/pelis2022/Padre.nohay.mas.que.uno.3.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]PAWS OF FURY THE LEGEND OF HANK
+http://51.81.208.167/pelis2022/Paws.of.Fury.The.Legend.of.Hank.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]PINOCCHIO
+http://51.81.208.167/pelis2022/Pinocchio.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]PLAN-A PLAN-B
+http://51.81.208.167/pelis2022/Plan.A.Plan.B.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]PREY
+http://51.81.208.167/pelis2022/Prey.2022.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]PROMESAS EN PARIS
+http://51.81.208.167/pelis2022/Promesas.en.Paris.2022.cas.pelispanda.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]QUE DEPADRE
+http://51.81.208.167/pelis2022/QuE.despadre.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]QUE TENGAS UN BUEN VIAJE
+http://51.81.208.167/pelis2022/Que.tengas.un.buen.viaje.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]RRR
+http://51.81.208.167/pelis2022/RRR.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]RAGING FIRE
+http://51.81.208.167/pelis2022/Raging.Fire.2021.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ROB ZOMBIES THE MUNSTERS
+http://51.81.208.167/pelis2022/Rob.Zombies.The.Munsters.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]RUMBLE
+http://51.81.208.167/pelis2022/Rumble.2021.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SCOOBY DOO DULCE O TRAVESURA
+http://51.81.208.167/pelis2022/Scooby.Doo.Dulce.o.Travesura.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SCROOGE A CHRISTMAS CAROL
+http://51.81.208.167/pelis2022/Scrooge.A.Christmas.Carol.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SECRET HEADQUARTERS
+http://51.81.208.167/pelis2022/Secret.Headquarters.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SEXO PUDOR Y LAGRIMAS
+http://51.81.208.167/pelis2022/Sexo.pudor.y.lagrimas.2.2022.1080p-lat-mitorrent.org.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SHOTGUN WEDDING
+http://51.81.208.167/pelis2022/Shotgun.Wedding.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SIN RESPIRO
+http://51.81.208.167/pelis2022/Sin.Respiro.2022.1080p-dual-lat.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SLUMBERLAND
+http://51.81.208.167/pelis2022/Slumberland.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SNEAKERELLA
+http://51.81.208.167/pelis2022/Sneakerella.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SNIPER ROGUE MISSION
+http://51.81.208.167/pelis2022/Sniper.Rogue.Mission.2022..lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SONIC THE HEDGEHOG 2
+http://51.81.208.167/pelis2022/Sonic.the.Hedgehog.2.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]SPIRIT HALLOWEEN
+http://51.81.208.167/pelis2022/Spirit.Halloween.The.Movie.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]STOW AWAY
+http://51.81.208.167/pelis2022/Stowaway.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TADEO JONES 3
+http://51.81.208.167/pelis2022/Tadeo.Jones.3.La.tabla.esmeralda.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TALL GIRL 2
+http://51.81.208.167/pelis2022/Tall.Girl.2.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE 355
+http://51.81.208.167/pelis2022/The.355.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE ADAM PROJECT
+http://51.81.208.167/pelis2022/The.Adam.Project.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE BAD GUYS
+http://51.81.208.167/pelis2022/The.Bad.Guys.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE BATMAN
+http://51.81.208.167/pelis2022/The.Batman.2022.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE BLACK PHONE
+http://51.81.208.167/pelis2022/The.Black.Phone.2021.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE BOSS BABY CHRISTMAS BONUS
+http://51.81.208.167/pelis2022/The.Boss.Baby.Christmas.Bonus.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE CONTRACTOR
+http://51.81.208.167/pelis2022/The.Contractor.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE DEVIL YOU KNOW
+http://51.81.208.167/pelis2022/The.Devil.You.Know.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE ENFORCER
+http://51.81.208.167/pelis2022/The.Enforcer.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE FORGIVEN
+http://51.81.208.167/pelis2022/The.Forgiven.2021.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE GOOD NURSE
+http://51.81.208.167/pelis2022/The.Good.Nurse.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE INDEPENDENT 
+http://51.81.208.167/pelis2022/The.Independent.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE INFERNAL MACHINE
+http://51.81.208.167/pelis2022/The.Infernal.Machine.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE INVITATION 
+http://51.81.208.167/pelis2022/The.Invitation.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE KINGS MAN
+http://51.81.208.167/pelis2022/The.Kings.Man.2021.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE LAST MARK
+http://51.81.208.167/pelis2022/The.Last.Mark.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE LOST CITY
+http://51.81.208.167/pelis2022/The.Lost.City.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE NORTHMAN
+http://51.81.208.167/pelis2022/The.Northman.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE OUTFIT
+http://51.81.208.167/pelis2022/The.Outfit.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE PIRATES 
+http://51.81.208.167/pelis2022/The.Pirates.The.Last.Royal.Treasure.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE ROUNDUP
+http://51.81.208.167/pelis2022/The.Roundup.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE SCHOOL FOR GOOD AND EVIL
+http://51.81.208.167/pelis2022/The.School.for.Good.and.Evil.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE SEA BEAST
+http://51.81.208.167/pelis2022/The.Sea.Beast.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE SILENT TWINS
+http://51.81.208.167/pelis2022/The.Silent.Twins.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE SOCCER FOOTBALL
+http://51.81.208.167/pelis2022/The.Soccer.Football.Movie.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE STRANGER
+http://51.81.208.167/pelis2022/The.Stranger.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THE VALET
+http://51.81.208.167/pelis2022/The.Valet.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THEY THEM
+http://51.81.208.167/pelis2022/TheyThem.2022.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THIS GAMES CALLED MURDER
+http://51.81.208.167/pelis2022/This.Games.Called.Murder.2021.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THOR LOVE AND THUNDER
+http://51.81.208.167/pelis2022/Thor.Love.and.Thunder.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]THREE MONTHS
+http://51.81.208.167/pelis2022/Three.Months.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TICKET TO PARADISE
+http://51.81.208.167/pelis2022/Ticket.to.Paradise.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TODO ES POSIBLE
+http://51.81.208.167/pelis2022/Todo.es.posible.avi
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TOP GUN 2
+http://51.81.208.167/pelis2022/Top.Gun.2.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TOSCANA
+http://51.81.208.167/pelis2022/Toscana.2022.cas.pelispanda.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TRATAMIENTO
+http://51.81.208.167/pelis2022/Tratamiento.real.2022.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TURNING RED
+http://51.81.208.167/pelis2022/Turning.Red.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]UNCHARTED
+http://51.81.208.167/pelis2022/Uncharted.2022.1080p.dual-lat.Mitorrent.org.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]UNDER WRAPS
+http://51.81.208.167/pelis2022/Under.Wraps.2.2022.cas.pelispanda.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]VENGEANCE
+http://51.81.208.167/pelis2022/Vengeance.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]VOY A PASARMELO
+http://51.81.208.167/pelis2022/Voy.A.Pasarmelo.Bien.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]WARRIORS OF FUTURE
+http://51.81.208.167/pelis2022/Warriors.of.Future.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]WENDELL AND WILD
+http://51.81.208.167/pelis2022/Wendell.and.Wild.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]WERE WOLD BY NIGHT
+http://51.81.208.167/pelis2022/Werewolf.by.Night.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]WHITE ELEPHANT
+http://51.81.208.167/pelis2022/White.Elephant.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]WILD IS THE WIND
+http://51.81.208.167/pelis2022/Wild.is.the.Wind.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]WRONG PLACE
+http://51.81.208.167/pelis2022/Wrong.Place.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]X
+http://51.81.208.167/pelis2022/X.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]YOU WONT BE ALONE
+http://51.81.208.167/pelis2022/You.Wont.Be.Alone.2022.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]365 DAYS
+http://51.81.208.167/2020/365.Days.2020.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HACKER
+http://51.81.208.167/2020/HACKER.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HALA
+http://51.81.208.167/2020/Hala_(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HALLOWEEN
+http://51.81.208.167/2020/Halloween_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HAPPY DEATH DAY 2U
+http://51.81.208.167/2020/Happy_Death_Day_2U_(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HARRIET
+http://51.81.208.167/2020/Harriet_(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HELL FEST
+http://51.81.208.167/2020/Hell_Fest_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HIGH FLYING BIRD
+http://51.81.208.167/2020/High_Flying_Bird_(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HIGH NOTE 40
+http://51.81.208.167/2020/High_Note_40_2019.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HOTEL MUMBAI
+http://51.81.208.167/2020/Hotel.mumbai.2018.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HOW TO TRAIN YOUR DRAGON
+http://51.81.208.167/2020/How_To_Train_Your_Dragon_The_Hidden_World_(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HUNTER KILLER
+http://51.81.208.167/2020/Hunter_Killer_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]I AM BROTHER
+http://51.81.208.167/2020/I.am.mother.2019.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]ILLANG THE WOLF BRIGADE
+http://51.81.208.167/2020/Illang.the.wolf.brigade.2018.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]INCEPTION
+http://51.81.208.167/2020/Inception.2010.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]INDIANA JONES 3
+http://51.81.208.167/2020/Indiana_Jones_3_(1989).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]INDIANA JONES 4
+http://51.81.208.167/2020/Indiana_Jones_4_(2008).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]INHERIT THE VIPER
+http://51.81.208.167/2020/Inherit_the_Viper_2019.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]INSTANT FAMILY
+http://51.81.208.167/2020/Instant_Family_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]INTERCAMIADAS
+http://51.81.208.167/2020/Intercambiadas_2019.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]JOHNNY ENGLISH STRIKES AGAIN
+http://51.81.208.167/2020/Johnny_English_Strikes_Again_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]JOJO RABIT
+http://51.81.208.167/2020/Jojo_Rabbit_(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]JUSTICE LEAGUE
+http://51.81.208.167/2020/Justice_League_(2017).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]KICKING AND SCREAMING 
+http://51.81.208.167/2020/Kicking_&_Screaming_(2005).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]KIN
+http://51.81.208.167/2020/Kin.2018.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]KNIGHT OF CUPS
+http://51.81.208.167/2020/Knight_of_Cups_(2015).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]KUNG-FU YOGA
+http://51.81.208.167/2020/Kung_Fu_Yoga_(2017).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LFDA11
+http://51.81.208.167/2020/LFDA11(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA ERA DE HIELO
+http://51.81.208.167/2020/La_Era_de_Hielo_1__2002.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA ERA DE HIELO 2
+http://51.81.208.167/2020/La_Era_de_Hielo_2_El_Deshielo__2006.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA ERA DE HIELO 3
+http://51.81.208.167/2020/La_Era_de_Hielo_3_El_Origen_de_los_Dinosaurios__2009.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA ERA DE HIELO 4
+http://51.81.208.167/2020/La_Era_de_Hielo_4_La_Formacion_de_los_Continentes__2012.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA ERA DE HIELO 5
+http://51.81.208.167/2020/La_Era_de_Hielo_5_Choque_de_Mundos__2016.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA ULTIMA CARCAJADA
+http://51.81.208.167/2020/La_Ultima_carcajada_2019.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LA LEYENDA DEL PASAJE SECRETO
+http://51.81.208.167/2020/La_leyenda_del_pasaje_secreto_2019.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LEAVE NO TRACE
+http://51.81.208.167/2020/Leave.no.trace.2018.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LIKE FATHER
+http://51.81.208.167/2020/Like_Father_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LOOK AWAY
+http://51.81.208.167/2020/Look_Away_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LUCHANDO CON MI FAMILIA
+http://51.81.208.167/2020/Luchando_con_mi_Familia_.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]LUKAS
+http://51.81.208.167/2020/Lukas_2018.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MALIFICIENT MISTRESS OF EVIL
+http://51.81.208.167/2020/Maleficent.mistress.of.evil.2019.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MAMMA MIA
+http://51.81.208.167/2020/Mamma_Mia!_Here_We_Go_Again_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MARY AND THE WITCH'S FLOWER 
+http://51.81.208.167/2020/Mary_and_the_Witch's_Flower_(2017).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MI PEQUENO GRAN HOMBRE
+http://51.81.208.167/2020/Mi_pequeño_Gran_Hombre_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MIA Y EL LEON BLANCO
+http://51.81.208.167/2020/Mia_y_el_Leon_Blanco_(2018).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MIDWAY
+http://51.81.208.167/2020/Midway.2019.mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MILE 22
+http://51.81.208.167/2020/Mile.22.2018.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MISS BALA
+http://51.81.208.167/2020/Miss_Bala_(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MONOS
+http://51.81.208.167/2020/Monos_(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MUJER MARAVILLA LINAJE
+http://51.81.208.167/2020/Mujer_Maravilla_Linaje_(2019).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MUTE
+http://51.81.208.167/2020/Mute.2018.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]MY FRIEND DAHMER
+http://51.81.208.167/2020/My_Friend_Dahmer_(2017).mkv
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]DETECTIVE KNIGHT INDEPENDENCE
+http://51.81.208.167/pelis2023/Detective.Knight.Independence.2023.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]HOUSE PARTY
+http://51.81.208.167/pelis2023/House.Party.2023.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]JUNG E
+http://51.81.208.167/pelis2023/Jung.E.2023.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TEEN WOLF 
+http://51.81.208.167/pelis2023/Teen.Wolf.The.Movie.2023.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]TRANSFUSSION
+http://51.81.208.167/pelis2023/Transfusion.2023.lati.mp4
+#EXTINF:-1 group-title="[🇲🇽🎬]FILMA(VOD)" tvg-logo="https://bit.ly/mexicoflag",[$]YOU PEOPLE
+http://51.81.208.167/pelis2023/You.People.2023.lati.mp4
 
 #EXTINF:-1 group-title="[🇪🇸🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingsp",[$]BEIRUT 
 https://n9.cl/5wo5
